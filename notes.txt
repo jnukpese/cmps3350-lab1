@@ -1,1 +1,2 @@
  I have never used git before
+Change from new_branch
